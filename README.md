@@ -59,11 +59,13 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DHRUVASAI&show_icons=true&theme=dark&hide_border=true&title_color=F97316&icon_color=F97316&count_private=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DHRUVASAI&theme=dark" />
 
-![Streak](https://streak-stats.demolab.com?user=DHRUVASAI&theme=dark&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316)
+<img src="https://streak-stats.demolab.com?user=DHRUVASAI&theme=dark&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316" />
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUVASAI&layout=compact&theme=dark&hide_border=true&title_color=F97316)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DHRUVASAI&theme=dark" />
+
+![Views](https://komarev.com/ghpvc/?username=DHRUVASAI&color=orange&style=flat-square)
 
 </div>
 
