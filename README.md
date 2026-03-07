@@ -59,11 +59,11 @@
 
 <div align="center">
 
-![DhruvaSai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DHRUVASAI&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=F97316&icon_color=F97316)
+![Stats](https://github-readme-stats.vercel.app/api?username=DHRUVASAI&show_icons=true&theme=dark&hide_border=true&title_color=F97316&icon_color=F97316&count_private=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=DHRUVASAI&theme=dark&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316)
+![Streak](https://streak-stats.demolab.com?user=DHRUVASAI&theme=dark&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUVASAI&theme=dark&hide_border=true&layout=compact&title_color=F97316)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUVASAI&layout=compact&theme=dark&hide_border=true&title_color=F97316)
 
 </div>
 
@@ -79,7 +79,7 @@
 
 <div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=DHRUVASAI&icon=5&color=6)](https://visitcount.itsvg.in)
+![Views](https://komarev.com/ghpvc/?username=DHRUVASAI&color=orange&style=flat-square)
 
 *"Build things that matter."*
 
