@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm V DhruvaSai
+# 👋 Hey, I'm Vudatha DhruvaSai
 
 ### 🚀 CS Student · Cloud Builder · AI Tinkerer
 **B.Tech Computer Science & Technology · KL University Hyderabad**
