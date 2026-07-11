@@ -15,6 +15,8 @@
 
 > **JanSahayak** — An agentic AI caseworker that lets rural Indians apply for government schemes by voice, in their language, in 3 minutes. No typing. No English. No office visits.
 >
+> Powered by **IBM watsonx.ai** and the **Granite** foundation model family for multilingual reasoning, with **IBM Cloud Object Storage** securing every document in the pipeline.
+>
 > 🏆 Submitted to **AWS AI for Bharat Hackathon 2026** · Track: AI for Communities, Access & Public Impact
 
 ---
@@ -24,6 +26,9 @@
 ### ☁️ Cloud & AI
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![IBM watsonx.ai](https://img.shields.io/badge/IBM-watsonx.ai-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![IBM Granite](https://img.shields.io/badge/IBM-Granite-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM-Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
@@ -38,12 +43,14 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📊 Data & ML
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
 ### 🎨 Design & DevOps
@@ -65,17 +72,29 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DHRUVASAI&theme=dark" />
 
-![Views](https://komarev.com/ghpvc/?username=DHRUVASAI&color=orange&style=flat-square)
-
 </div>
 
 ---
 
 ## 🌱 Currently
 
-- 🔭 Building **JanSahayak** — agentic AI for rural welfare access
-- 📚 Deep diving into **AWS cloud architecture** and **LLM pipelines**
+- 🔭 Building **JanSahayak** — agentic AI for rural welfare access, powered by **IBM watsonx.ai** and **Granite**
+- 📚 Deep diving into **cloud architecture** (AWS + IBM Cloud) and **LLM pipelines**
 - 🤝 Open to collaborations on **AI for social impact** projects
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
+*Swap the `#` links above for your actual profile URLs.*
+
+</div>
 
 ---
 
