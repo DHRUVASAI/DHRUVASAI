@@ -92,8 +92,6 @@
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dhruvasai1706@gmail.com)
 
-*Swap the `#` links above for your actual profile URLs.*
-
 </div>
 
 ---
