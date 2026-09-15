@@ -1,49 +1,23 @@
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=DHRUVASAI&color=orange&style=flat-square)
+# 👋 Hey, I'm Vudatha DhruvaSai
 
-# 👋 Vudatha Dhruva Sai
+### 🚀 CS Student · Cloud Builder · AI Tinkerer
+**B.Tech Computer Science & Technology · KL University Hyderabad**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&width=600&lines=CS+Student+%C2%B7+Cloud+Builder+%C2%B7+AI+Tinkerer;Building+AI+for+Bharat+%F0%9F%87%AE%F0%9F%87%B3;Turning+Curiosity+into+Code)](https://git.io/typing-svg)
-
-**B.Tech Computer Science & Technology · KL University (KLEF), Hyderabad · Class of 2028**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&width=500&lines=Building+AI+for+Bharat+🇮🇳;Voice+%2B+Cloud+%2B+Real+Impact;Code+that+actually+matters)](https://git.io/typing-svg)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 🧠 What I'm Building
 
-> **JanSahayak** — an agentic AI caseworker that lets rural Indians apply for government schemes by voice, in their language, in 3 minutes. No typing. No English. No office visits.
+> **JanSahayak** — An agentic AI caseworker that lets rural Indians apply for government schemes by voice, in their language, in 3 minutes. No typing. No English. No office visits.
 >
-> Powered by **IBM watsonx.ai** and the **Granite** foundation model family, with **IBM Cloud Object Storage** securing every document in the pipeline.
+> Powered by **IBM watsonx.ai** and the **Granite** foundation model family for multilingual reasoning, with **IBM Cloud Object Storage** securing every document in the pipeline.
 >
 > 🏆 Submitted to **AWS AI for Bharat Hackathon 2026** · Track: AI for Communities, Access & Public Impact
-
-Alongside that: **GARUDA-X v5.0** (network security + Monad blockchain attestation) and **EDGE** (cricket analytics crunching 800K+ deliveries), both built for live hackathons rather than left as side projects.
-
----
-
-## Focus Areas
-
-```mermaid
-graph LR
-    A["Civic Tech"] --> B["Multilingual GovTech Bots"]
-    A --> C["Agentic AI Caseworkers"]
-    D["Security"] --> E["Network Monitoring"]
-    D --> F["Blockchain Attestation"]
-    G["Sports Analytics"] --> H["Ball-by-Ball ETL"]
-    B --> I["Shipped Hackathon Builds"]
-    C --> I
-    E --> I
-    F --> I
-    H --> I
-
-    style A fill:#0D1117,stroke:#F97316,color:#F97316
-    style D fill:#0D1117,stroke:#58A6FF,color:#58A6FF
-    style G fill:#0D1117,stroke:#00D9FF,color:#00D9FF
-    style I fill:#0D1117,stroke:#F97316,color:#F97316
-```
 
 ---
 
@@ -54,12 +28,24 @@ graph LR
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![IBM watsonx.ai](https://img.shields.io/badge/IBM-watsonx.ai-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![IBM Granite](https://img.shields.io/badge/IBM-Granite-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM-Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-### 🧑‍💻 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,ts,c,html,css,solidity,nodejs,react,nextjs,fastapi,postgres,supabase,git,figma" height="48" />
+### 🧑‍💻 Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Frameworks & Tools
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📊 Data & ML
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -67,38 +53,12 @@ graph LR
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
----
-
-<div align="center">
-
-## Open to Collaboration
-
-<table width="100%">
-<tr>
-<td align="center" width="25%">
-  <img src="https://api.iconify.design/mdi/account-voice.svg?color=%23F97316" width="42" height="42"><br><br>
-  <strong>Civic / GovTech</strong><br><br>
-  <small>Agentic Caseworkers<br>Multilingual Access</small>
-</td>
-<td align="center" width="25%">
-  <img src="https://api.iconify.design/mdi/shield-lock-outline.svg?color=%2358A6FF" width="42" height="42"><br><br>
-  <strong>Security & Web3</strong><br><br>
-  <small>Network Monitoring<br>Blockchain Attestation</small>
-</td>
-<td align="center" width="25%">
-  <img src="https://api.iconify.design/mdi/cricket.svg?color=%2300D9FF" width="42" height="42"><br><br>
-  <strong>Sports Analytics</strong><br><br>
-  <small>Ball-by-Ball Pipelines<br>ETL & Caching</small>
-</td>
-<td align="center" width="25%">
-  <img src="https://api.iconify.design/mdi/robot-outline.svg?color=%23F97316" width="42" height="42"><br><br>
-  <strong>Applied AI</strong><br><br>
-  <small>Agentic Systems<br>ML Classifiers</small>
-</td>
-</tr>
-</table>
-
-</div>
+### 🎨 Design & DevOps
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
 ---
 
@@ -106,12 +66,11 @@ graph LR
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DHRUVASAI&theme=dark" />
+
 <img src="https://streak-stats.demolab.com?user=DHRUVASAI&theme=dark&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUVASAI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F97316&langs_count=10"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUVASAI&layout=compact&hide_border=true&langs_count=10"/>
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DHRUVASAI&theme=dark" />
 
 </div>
 
@@ -125,18 +84,22 @@ graph LR
 
 ---
 
-<div align="center">
-
 ## 📫 Let's Connect
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vudatha-dhruva-sai-500217315/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvasai1706@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DHRUVASAI)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dhruvasai1706@gmail.com)
 
-<br>
+</div>
 
-<i>"Build things that matter."</i>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
+<div align="center">
+
+![Views](https://komarev.com/ghpvc/?username=DHRUVASAI&color=orange&style=flat-square)
+
+*"Build things that matter."*
 
 </div>
